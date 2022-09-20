@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje sou acadêmico de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando JAVA
+- 🌱 Estudando Front-end
 - 💬 Me preparando para em breve trabalhar como desenvolvedor
 
 
