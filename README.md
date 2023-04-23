@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje sou acadêmico de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Front-end
+- 🌱 Estudando Php e Laravel
 - 💬 Me preparando para em breve trabalhar como desenvolvedor
 
 
