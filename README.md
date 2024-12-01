@@ -2,8 +2,12 @@
 
 
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, atualmente atuando como suporte técnico, meu desejo é evoluir na carreira e transformar minha paixão pela tecnologia em uma carreira como desenvolvedor. Com uma base sólida em programação e resolução de problemas, estou ansioso para aplicar minha criatividade e habilidades técnicas para contribuir com projetos inovadores, buscando aprimorar a experiência do usuário e criar soluções eficientes. Minha transição para o papel de desenvolvedor reflete meu compromisso com o aprendizado contínuo e minha determinação em enfrentar novos desafios com entusiasmo e dedicação.
+Atualmente Atuando como Desenvolvedor Jr, trabalhando com tecnologias .NET e AngularJS. Focado no desenvolvimento de aplicações web robustas, combinando a criação de APIs em ASP.NET para o backend e a utilização de AngularJS para o frontend. Adquirindo experiência em:
 
+• Desenvolvimento backend com .NET (ASP.NET Core MVC).
+• Integração frontend com AngularJS, Bootstrap.
+• Gerenciamento de banco de dados e operações CRUD.
+• Construção de interfaces dinâmicas e responsivas.
 
 <div align="center">
   <a href="https://github.com/Leobarross">
