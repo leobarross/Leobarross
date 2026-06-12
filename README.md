@@ -2,12 +2,8 @@
 
 
 
-Atualmente Atuando como Desenvolvedor Jr, trabalhando com tecnologias .NET e AngularJS. Focado no desenvolvimento de aplicações web robustas, combinando a criação de APIs em ASP.NET para o backend e a utilização de AngularJS para o frontend. Adquirindo experiência em:
+Desenvolvedor Full Stack .NET focado em ASP.NET Core, C#, SQL Server e Angular. Experiência no desenvolvimento de sistemas web corporativos e APIs REST.
 
-• Desenvolvimento backend com .NET (ASP.NET Core MVC).
-• Integração frontend com AngularJS, Bootstrap.
-• Gerenciamento de banco de dados e operações CRUD.
-• Construção de interfaces dinâmicas e responsivas.
 
 <div align="center">
   <a href="https://github.com/Leobarross">
