@@ -2,7 +2,25 @@
 
 
 
-Desenvolvedor Full Stack .NET focado em ASP.NET Core, C#, SQL Server e Angular. Experiência no desenvolvimento de sistemas web corporativos e APIs REST.
+# Leonardo Oliveira
+
+Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistemas web corporativos utilizando ASP.NET Core, C#, SQL Server e Angular.
+
+## Tecnologias
+
+* ASP.NET Core
+* C#
+* SQL Server
+* JavaScript
+* Angular
+* APIs REST
+* Git
+
+## Sobre
+
+Atuo no desenvolvimento e manutenção de sistemas ERP web, participando da criação de funcionalidades, APIs REST, otimização de consultas SQL Server e evolução de sistemas corporativos.
+
+Busco evoluir continuamente como desenvolvedor, criando soluções organizadas, performáticas e de fácil manutenção.
 
 
 <div align="center">
