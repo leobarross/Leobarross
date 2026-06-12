@@ -1,20 +1,8 @@
-### Olá eu sou Leonardo
-
-
-
 # Leonardo Oliveira
 
-Desenvolvedor Full Stack .NET com experiência no desenvolvimento de sistemas web corporativos utilizando ASP.NET Core, C#, SQL Server e Angular.
+Desenvolvedor Full Stack .NET focado em ASP.NET Core, C#, SQL Server e Angular.
 
-## Tecnologias
-
-* ASP.NET Core
-* C#
-* SQL Server
-* JavaScript
-* Angular
-* APIs REST
-* Git
+Experiência no desenvolvimento e manutenção de sistemas web corporativos, APIs REST e soluções voltadas para ambientes empresariais.
 
 ## Sobre
 
@@ -32,8 +20,6 @@ Busco evoluir continuamente como desenvolvedor, criando soluções organizadas, 
 ##
 
  <div>
-
-  <a href="https://www.instagram.com/leonardooliveira.barros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   <a href = "https://mailto: leoolliver77@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardooliveiras7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
