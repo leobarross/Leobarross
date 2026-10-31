@@ -10,17 +10,14 @@ Também atuo no desenvolvimento de APIs REST com ASP.NET Core, incluindo integra
 
 ## Tecnologias
 
-**Backend:** C#, .NET Framework, ASP.NET MVC, ASP.NET Core, APIs REST
-
-**Frontend:** AngularJS, JavaScript, HTML, CSS, Bootstrap
-
-**Banco de dados:** SQL Server
-
-**Ferramentas:** Git, GitHub, Visual Studio
+- **Backend:** C#, .NET Framework, ASP.NET MVC, ASP.NET Core, APIs REST
+- **Frontend:** AngularJS, JavaScript, HTML, CSS, Bootstrap
+- **Banco de dados:** SQL Server
+- **Ferramentas:** Git, GitHub, Visual Studio
 
 ## Projeto em destaque
 
-### AutenticaNET.API
+### [AutenticaNET.API](https://github.com/leobarross/AutenticaNET.API)
 
 API de autenticação desenvolvida como projeto de estudo, utilizando ASP.NET Core 8, Entity Framework Core e SQL Server.
 
@@ -30,10 +27,7 @@ Funcionalidades documentadas:
 - Proteção de endpoints.
 - Controle de acesso por roles.
 
-**Repositório:** https://github.com/leobarross/AutenticaNET.API
-
 ## Contato
 
-**LinkedIn:** https://www.linkedin.com/in/leonardooliveiras7/
-
-**E-mail:** leoolliver77@gmail.com
+- **LinkedIn:** [linkedin.com/in/leonardooliveiras7](https://www.linkedin.com/in/leonardooliveiras7/)
+- **E-mail:** [leoolliver77@gmail.com](mailto:leoolliver77@gmail.com)
